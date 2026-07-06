@@ -1,0 +1,16 @@
+{
+  "students": [
+    {
+      "usn": "1ep23ic035",
+      "studentName": "Mekala Meghana",
+      "department": "ISE",
+      "semester": "6",
+      "section": "B",
+      "academicYear": "2026-27",
+      "email": "mekalameghana248@gmail.com",
+      "phone": "9113037528",
+      "id": "yx55RrGwUSo"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
